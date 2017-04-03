@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Salvatore\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.5.0
+[debug] Platform:     win32
+[debug] Node Version: v7.2.1
+[debug] Time:         Mon Apr 03 2017 21:32:26 GMT+0200 (ora legale Europa occidentale)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Salvatore\_dev\your-first-pwapp-master\your-first-pwapp-master\work
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
